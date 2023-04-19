@@ -1,5 +1,6 @@
 # Bank-Customer-Subscription-Prediction
 天池机器学习金融数据赛：银行认购预测 
+Score: 0.96
 
 This is my submission for the Tianchi Machine Learning Financial Data Analysis Competition, aiming to predict whether bank customers will subscribe to a product.
 
